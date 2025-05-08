@@ -107,8 +107,6 @@ package-lock.json
 * Certifique-se de que os caminhos (`local-dir` e `server-dir`) estão corretos
 * Use um branch exclusivo para deploy, se preferir separar da branch principal
 * Para sites que executam PHP ou outros scripts de servidor, verifique as permissões de arquivo após o upload
-* Considere adicionar uma etapa de build antes do deploy para projetos que precisam ser compilados
+* Considere adicionar uma etapa de build antes do deploy para projetos que precisam ser compiladosm
 
 ---
-
-Feito com ❤️ por sua equipe DevOps.
